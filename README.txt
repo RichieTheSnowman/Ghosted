@@ -1,11 +1,9 @@
-Website made with WebThemez
-
 Ghosted Application
 
 
 Credits :
 -------
-=> Design and developed: "WebThemez"  http://webthemez.com 
+=> Design and developed: "WebThemez" 
 
 
 License :
