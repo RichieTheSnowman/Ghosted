@@ -1,4 +1,4 @@
 reeeeee
-ref y.txt
+REF y.txt
 reef
-ref x.txt
+REF x.txt
